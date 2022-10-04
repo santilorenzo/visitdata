@@ -3,6 +3,14 @@
         "source": "google",
         "medium": "cpc"
     },
+    "wbraid": {
+        "source": "google",
+        "medium": "cpc"
+    },
+    "gbraid": {
+        "source": "google",
+        "medium": "cpc"
+    },
     "dclid": {
         "source": "google",
         "medium": "cpm"
